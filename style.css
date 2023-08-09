@@ -73,3 +73,7 @@ body{
 h4{
     color: #c29bdc;
 }
+
+h1:hover{
+    color: #645464;
+}
