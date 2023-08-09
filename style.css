@@ -77,3 +77,11 @@ h4{
 h1:hover{
     color: #645464;
 }
+.copa{
+    position: absolute;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.straw{
+    padding-bottom: 0px;
+}
