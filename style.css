@@ -26,6 +26,9 @@
     border: 2px solid black;
     
 }
+.cuadrado:hover{
+    background-color: #645464;
+}
 #container{
 
     display: flex;
@@ -66,4 +69,7 @@ body{
 }
 .rejilla1{
     border-radius: 15px 15px 0px 0px;
+}
+h4{
+    color: #c29bdc;
 }
